@@ -4,8 +4,9 @@
 #f4af1b
 */
 html,body{
-    width: 100%;
+    max-width: 100%;
     height: 100%;
+    overflow: hidden;
     font-family: garmonda,'Times New Roman', Times, serif;
     /* background-image: url("../images/bg6.jpg"); */
     background-color: #8c9def;
